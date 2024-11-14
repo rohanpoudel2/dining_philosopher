@@ -1,0 +1,16 @@
+2024-11-13 20:50:55 - Philosopher 0 is Thinking
+2024-11-13 20:50:55 - Philosopher 1 is Thinking
+2024-11-13 20:50:55 - Philosopher 3 is Thinking
+2024-11-13 20:50:55 - Philosopher 2 is Thinking
+2024-11-13 20:50:55 - Philosopher 4 is Thinking
+2024-11-13 20:50:57 - Philosopher 4 is Hungry
+2024-11-13 20:50:57 - Philosopher 2 is Hungry
+2024-11-13 20:50:57 - Philosopher 0 is Hungry
+2024-11-13 20:50:58 - Philosopher 1 is Hungry
+2024-11-13 20:50:58 - Philosopher 3 is Hungry
+2024-11-13 20:50:59 - Philosopher 4 is Hungry (Left fork picked)
+2024-11-13 20:50:59 - Philosopher 2 is Hungry (Left fork picked)
+2024-11-13 20:50:59 - Philosopher 0 is Hungry (Left fork picked)
+2024-11-13 20:50:59 - Philosopher 1 is Hungry (Left fork picked)
+2024-11-13 20:51:00 - Philosopher 3 is Hungry (Left fork picked)
+2024-11-13 20:51:00 - DEADLOCK DETECTED! All philosophers are stuck.

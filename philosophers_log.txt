@@ -1,202 +1,45 @@
-2024-11-13 22:21:07 - Philosopher 0 is Thinking
-2024-11-13 22:21:07 - Philosopher 1 is Thinking
-2024-11-13 22:21:07 - Philosopher 3 is Thinking
-2024-11-13 22:21:07 - Philosopher 2 is Thinking
-2024-11-13 22:21:07 - Philosopher 0 is Hungry
-2024-11-13 22:21:07 - Philosopher 3 is Hungry
-2024-11-13 22:21:07 - Philosopher 1 is Hungry
-2024-11-13 22:21:07 - Philosopher 4 is Thinking
-2024-11-13 22:21:07 - Philosopher 0 is Eating
-2024-11-13 22:21:07 - Philosopher 2 is Hungry
-2024-11-13 22:21:07 - Philosopher 3 is Eating
-2024-11-13 22:21:07 - Philosopher 4 is Hungry
-2024-11-13 22:21:08 - Philosopher 1 is Hungry (Retrying)
-2024-11-13 22:21:08 - Philosopher 4 is Hungry (Retrying)
-2024-11-13 22:21:08 - Philosopher 2 is Hungry (Retrying)
-2024-11-13 22:21:09 - Philosopher 0 is Thinking
-2024-11-13 22:21:09 - Philosopher 0 is Thinking
-2024-11-13 22:21:09 - Philosopher 3 is Thinking
-2024-11-13 22:21:09 - Philosopher 3 is Thinking
-2024-11-13 22:21:09 - Philosopher 3 is Hungry
-2024-11-13 22:21:09 - Philosopher 3 is Eating
-2024-11-13 22:21:09 - Philosopher 0 is Hungry
-2024-11-13 22:21:09 - Philosopher 0 is Eating
-2024-11-13 22:21:10 - Philosopher 2 is Hungry (Retrying)
-2024-11-13 22:21:10 - Philosopher 4 is Hungry (Retrying)
-2024-11-13 22:21:10 - Philosopher 1 is Hungry (Retrying)
-2024-11-13 22:21:11 - Philosopher 3 is Thinking
-2024-11-13 22:21:11 - Philosopher 3 is Thinking
-2024-11-13 22:21:11 - Philosopher 0 is Thinking
-2024-11-13 22:21:11 - Philosopher 0 is Thinking
-2024-11-13 22:21:11 - Philosopher 3 is Hungry
-2024-11-13 22:21:11 - Philosopher 3 is Eating
-2024-11-13 22:21:11 - Philosopher 0 is Hungry
-2024-11-13 22:21:11 - Philosopher 0 is Eating
-2024-11-13 22:21:12 - Philosopher 2 is Hungry (Retrying)
-2024-11-13 22:21:12 - Philosopher 4 is Hungry (Retrying)
-2024-11-13 22:21:12 - Philosopher 1 is Hungry (Retrying)
-2024-11-13 22:21:13 - Philosopher 3 is Thinking
-2024-11-13 22:21:13 - Philosopher 3 is Thinking
-2024-11-13 22:21:13 - Philosopher 3 is Hungry
-2024-11-13 22:21:13 - Philosopher 0 is Thinking
-2024-11-13 22:21:13 - Philosopher 0 is Thinking
-2024-11-13 22:21:13 - Philosopher 0 is Hungry
-2024-11-13 22:21:13 - Philosopher 0 is Eating
-2024-11-13 22:21:13 - Philosopher 3 is Eating
-2024-11-13 22:21:14 - Philosopher 2 is Hungry (Retrying)
-2024-11-13 22:21:14 - Philosopher 1 is Hungry (Retrying)
-2024-11-13 22:21:14 - Philosopher 4 is Hungry (Retrying)
-2024-11-13 22:21:15 - Philosopher 0 is Thinking
-2024-11-13 22:21:15 - Philosopher 0 is Thinking
-2024-11-13 22:21:15 - Philosopher 0 is Hungry
-2024-11-13 22:21:15 - Philosopher 0 is Eating
-2024-11-13 22:21:15 - Philosopher 3 is Thinking
-2024-11-13 22:21:15 - Philosopher 3 is Thinking
-2024-11-13 22:21:15 - Philosopher 3 is Hungry
-2024-11-13 22:21:15 - Philosopher 3 is Eating
-2024-11-13 22:21:16 - Philosopher 4 is Hungry (Retrying)
-2024-11-13 22:21:16 - Philosopher 1 is Hungry (Retrying)
-2024-11-13 22:21:16 - Philosopher 2 is Hungry (Retrying)
-2024-11-13 22:21:17 - Philosopher 0 is Thinking
-2024-11-13 22:21:17 - Philosopher 0 is Thinking
-2024-11-13 22:21:17 - Philosopher 0 is Hungry
-2024-11-13 22:21:17 - Philosopher 0 is Eating
-2024-11-13 22:21:17 - Philosopher 3 is Thinking
-2024-11-13 22:21:17 - Philosopher 3 is Thinking
-2024-11-13 22:21:17 - Philosopher 3 is Hungry
-2024-11-13 22:21:17 - Philosopher 3 is Eating
-2024-11-13 22:21:18 - Philosopher 2 is Hungry (Retrying)
-2024-11-13 22:21:18 - Philosopher 1 is Hungry (Retrying)
-2024-11-13 22:21:18 - Philosopher 4 is Hungry (Retrying)
-2024-11-13 22:21:19 - Philosopher 0 is Thinking
-2024-11-13 22:21:19 - Philosopher 3 is Thinking
-2024-11-13 22:21:19 - Philosopher 0 is Thinking
-2024-11-13 22:21:19 - Philosopher 0 is Hungry
-2024-11-13 22:21:19 - Philosopher 3 is Thinking
-2024-11-13 22:21:19 - Philosopher 3 is Hungry
-2024-11-13 22:21:19 - Philosopher 3 is Eating
-2024-11-13 22:21:19 - Philosopher 0 is Eating
-2024-11-13 22:21:20 - Philosopher 1 is Hungry (Retrying)
-2024-11-13 22:21:20 - Philosopher 2 is Hungry (Retrying)
-2024-11-13 22:21:20 - Philosopher 4 is Hungry (Retrying)
-2024-11-13 22:21:21 - Philosopher 3 is Thinking
-2024-11-13 22:21:21 - Philosopher 3 is Thinking
-2024-11-13 22:21:21 - Philosopher 3 is Hungry
-2024-11-13 22:21:21 - Philosopher 0 is Thinking
-2024-11-13 22:21:21 - Philosopher 3 is Eating
-2024-11-13 22:21:21 - Philosopher 0 is Thinking
-2024-11-13 22:21:21 - Philosopher 0 is Hungry
-2024-11-13 22:21:21 - Philosopher 0 is Eating
-2024-11-13 22:21:22 - Philosopher 4 is Hungry (Retrying)
-2024-11-13 22:21:22 - Philosopher 1 is Hungry (Retrying)
-2024-11-13 22:21:22 - Philosopher 2 is Hungry (Retrying)
-2024-11-13 22:21:23 - Philosopher 0 is Thinking
-2024-11-13 22:21:23 - Philosopher 0 is Thinking
-2024-11-13 22:21:23 - Philosopher 0 is Hungry
-2024-11-13 22:21:23 - Philosopher 0 is Eating
-2024-11-13 22:21:23 - Philosopher 3 is Thinking
-2024-11-13 22:21:23 - Philosopher 3 is Thinking
-2024-11-13 22:21:23 - Philosopher 3 is Hungry
-2024-11-13 22:21:23 - Philosopher 3 is Eating
-2024-11-13 22:21:24 - Philosopher 4 is Hungry (Retrying)
-2024-11-13 22:21:24 - Philosopher 1 is Hungry (Retrying)
-2024-11-13 22:21:24 - Philosopher 2 is Hungry (Retrying)
-2024-11-13 22:21:25 - Philosopher 3 is Thinking
-2024-11-13 22:21:25 - Philosopher 0 is Thinking
-2024-11-13 22:21:25 - Philosopher 3 is Thinking
-2024-11-13 22:21:25 - Philosopher 0 is Thinking
-2024-11-13 22:21:25 - Philosopher 3 is Hungry
-2024-11-13 22:21:25 - Philosopher 3 is Eating
-2024-11-13 22:21:25 - Philosopher 0 is Hungry
-2024-11-13 22:21:25 - Philosopher 0 is Eating
-2024-11-13 22:21:26 - Philosopher 4 is Hungry (Retrying)
-2024-11-13 22:21:26 - Philosopher 1 is Hungry (Retrying)
-2024-11-13 22:21:26 - Philosopher 2 is Hungry (Retrying)
-2024-11-13 22:21:27 - Philosopher 3 is Thinking
-2024-11-13 22:21:27 - Philosopher 3 is Thinking
-2024-11-13 22:21:27 - Philosopher 0 is Thinking
-2024-11-13 22:21:27 - Philosopher 3 is Hungry
-2024-11-13 22:21:27 - Philosopher 3 is Eating
-2024-11-13 22:21:27 - Philosopher 0 is Thinking
-2024-11-13 22:21:27 - Philosopher 0 is Hungry
-2024-11-13 22:21:27 - Philosopher 0 is Eating
-2024-11-13 22:21:28 - Philosopher 4 is Hungry (Retrying)
-2024-11-13 22:21:28 - Philosopher 1 is Hungry (Retrying)
-2024-11-13 22:21:28 - Philosopher 2 is Hungry (Retrying)
-2024-11-13 22:21:29 - Philosopher 3 is Thinking
-2024-11-13 22:21:29 - Philosopher 0 is Thinking
-2024-11-13 22:21:29 - Philosopher 0 is Thinking
-2024-11-13 22:21:29 - Philosopher 0 is Hungry
-2024-11-13 22:21:29 - Philosopher 0 is Eating
-2024-11-13 22:21:29 - Philosopher 3 is Thinking
-2024-11-13 22:21:29 - Philosopher 3 is Hungry
-2024-11-13 22:21:29 - Philosopher 3 is Eating
-2024-11-13 22:21:30 - Philosopher 4 is Hungry (Retrying)
-2024-11-13 22:21:30 - Philosopher 1 is Hungry (Retrying)
-2024-11-13 22:21:30 - Philosopher 2 is Hungry (Retrying)
-2024-11-13 22:21:31 - Philosopher 0 is Thinking
-2024-11-13 22:21:31 - Philosopher 0 is Thinking
-2024-11-13 22:21:31 - Philosopher 0 is Hungry
-2024-11-13 22:21:31 - Philosopher 0 is Eating
-2024-11-13 22:21:31 - Philosopher 3 is Thinking
-2024-11-13 22:21:31 - Philosopher 3 is Thinking
-2024-11-13 22:21:31 - Philosopher 3 is Hungry
-2024-11-13 22:21:31 - Philosopher 3 is Eating
-2024-11-13 22:21:32 - Philosopher 4 is Hungry (Retrying)
-2024-11-13 22:21:32 - Philosopher 1 is Hungry (Retrying)
-2024-11-13 22:21:32 - Philosopher 2 is Hungry (Retrying)
-2024-11-13 22:21:33 - Philosopher 0 is Thinking
-2024-11-13 22:21:33 - Philosopher 0 is Thinking
-2024-11-13 22:21:33 - Philosopher 0 is Hungry
-2024-11-13 22:21:33 - Philosopher 0 is Eating
-2024-11-13 22:21:33 - Philosopher 3 is Thinking
-2024-11-13 22:21:33 - Philosopher 3 is Thinking
-2024-11-13 22:21:33 - Philosopher 3 is Hungry
-2024-11-13 22:21:33 - Philosopher 3 is Eating
-2024-11-13 22:21:34 - Philosopher 4 is Hungry (Retrying)
-2024-11-13 22:21:34 - Philosopher 1 is Hungry (Retrying)
-2024-11-13 22:21:34 - Philosopher 2 is Hungry (Retrying)
-2024-11-13 22:21:35 - Philosopher 0 is Thinking
-2024-11-13 22:21:35 - Philosopher 0 is Thinking
-2024-11-13 22:21:35 - Philosopher 0 is Hungry
-2024-11-13 22:21:35 - Philosopher 0 is Eating
-2024-11-13 22:21:35 - Philosopher 3 is Thinking
-2024-11-13 22:21:35 - Philosopher 3 is Thinking
-2024-11-13 22:21:35 - Philosopher 3 is Hungry
-2024-11-13 22:21:35 - Philosopher 3 is Eating
-2024-11-13 22:21:36 - Philosopher 4 is Hungry (Retrying)
-2024-11-13 22:21:36 - Philosopher 1 is Hungry (Retrying)
-2024-11-13 22:21:36 - Philosopher 2 is Hungry (Retrying)
-2024-11-13 22:21:37 - Philosopher 0 is Thinking
-2024-11-13 22:21:37 - Philosopher 0 is Thinking
-2024-11-13 22:21:37 - Philosopher 0 is Hungry
-2024-11-13 22:21:37 - Philosopher 0 is Eating
-2024-11-13 22:21:37 - Philosopher 3 is Thinking
-2024-11-13 22:21:37 - Philosopher 3 is Thinking
-2024-11-13 22:21:37 - Philosopher 3 is Hungry
-2024-11-13 22:21:37 - Philosopher 3 is Eating
-2024-11-13 22:21:38 - Philosopher 1 is Hungry (Retrying)
-2024-11-13 22:21:38 - Philosopher 4 is Hungry (Retrying)
-2024-11-13 22:21:38 - Philosopher 2 is Hungry (Retrying)
-2024-11-13 22:21:39 - Philosopher 0 is Thinking
-2024-11-13 22:21:39 - Philosopher 0 is Thinking
-2024-11-13 22:21:39 - Philosopher 0 is Hungry
-2024-11-13 22:21:39 - Philosopher 0 is Eating
-2024-11-13 22:21:39 - Philosopher 3 is Thinking
-2024-11-13 22:21:39 - Philosopher 3 is Thinking
-2024-11-13 22:21:39 - Philosopher 3 is Hungry
-2024-11-13 22:21:39 - Philosopher 3 is Eating
-2024-11-13 22:21:40 - Philosopher 1 is Hungry (Retrying)
-2024-11-13 22:21:40 - Philosopher 4 is Hungry (Retrying)
-2024-11-13 22:21:40 - Philosopher 2 is Hungry (Retrying)
-2024-11-13 22:21:41 - Philosopher 0 is Thinking
-2024-11-13 22:21:41 - Philosopher 0 is Thinking
-2024-11-13 22:21:41 - Philosopher 0 is Hungry
-2024-11-13 22:21:41 - Philosopher 0 is Eating
-2024-11-13 22:21:41 - Philosopher 3 is Thinking
-2024-11-13 22:21:41 - Philosopher 3 is Thinking
-2024-11-13 22:21:41 - Philosopher 3 is Hungry
-2024-11-13 22:21:41 - Philosopher 3 is Eating
-2024-11-13 22:21:42 - Philosopher 4 is Hungry (Retrying)
-2024-11-13 22:21:42 - Philosopher 1 is Hungry (Retrying)
-2024-11-13 22:21:42 - Philosopher 2 is Hungry (Retrying)
+2024-11-13 22:24:42 - Philosopher 1 is Thinking
+2024-11-13 22:24:42 - Philosopher 0 is Thinking
+2024-11-13 22:24:42 - Philosopher 2 is Thinking
+2024-11-13 22:24:42 - Philosopher 1 is Hungry
+2024-11-13 22:24:42 - Philosopher 3 is Thinking
+2024-11-13 22:24:42 - Philosopher 0 is Hungry
+2024-11-13 22:24:42 - Philosopher 2 is Hungry
+2024-11-13 22:24:42 - Philosopher 4 is Thinking
+2024-11-13 22:24:42 - Philosopher 1 is Hungry (Picked first fork)
+2024-11-13 22:24:42 - Philosopher 3 is Hungry
+2024-11-13 22:24:42 - Philosopher 4 is Hungry
+2024-11-13 22:24:42 - Philosopher 3 is Hungry (Picked first fork)
+2024-11-13 22:24:42 - Philosopher 0 is Hungry (Picked first fork)
+2024-11-13 22:24:43 - Philosopher 1 is Eating
+2024-11-13 22:24:43 - Philosopher 3 is Eating
+2024-11-13 22:24:45 - Philosopher 1 is Thinking
+2024-11-13 22:24:45 - Philosopher 1 is Thinking
+2024-11-13 22:24:45 - Philosopher 1 is Hungry
+2024-11-13 22:24:45 - Philosopher 0 is Eating
+2024-11-13 22:24:45 - Philosopher 2 is Hungry (Picked first fork)
+2024-11-13 22:24:45 - Philosopher 3 is Thinking
+2024-11-13 22:24:45 - Philosopher 4 is Hungry (Picked first fork)
+2024-11-13 22:24:45 - Philosopher 3 is Thinking
+2024-11-13 22:24:45 - Philosopher 3 is Hungry
+2024-11-13 22:24:46 - Philosopher 2 is Eating
+2024-11-13 22:24:47 - Philosopher 0 is Thinking
+2024-11-13 22:24:47 - Philosopher 4 is Eating
+2024-11-13 22:24:47 - Philosopher 0 is Thinking
+2024-11-13 22:24:47 - Philosopher 0 is Hungry
+2024-11-13 22:24:48 - Philosopher 2 is Thinking
+2024-11-13 22:24:48 - Philosopher 1 is Hungry (Picked first fork)
+2024-11-13 22:24:48 - Philosopher 2 is Thinking
+2024-11-13 22:24:48 - Philosopher 2 is Hungry
+2024-11-13 22:24:49 - Philosopher 3 is Hungry (Picked first fork)
+2024-11-13 22:24:49 - Philosopher 0 is Hungry (Picked first fork)
+2024-11-13 22:24:49 - Philosopher 4 is Thinking
+2024-11-13 22:24:49 - Philosopher 4 is Thinking
+2024-11-13 22:24:49 - Philosopher 4 is Hungry
+2024-11-13 22:24:49 - Philosopher 1 is Eating
+2024-11-13 22:24:50 - Philosopher 3 is Eating
+2024-11-13 22:24:51 - Philosopher 2 is Hungry (Picked first fork)
+2024-11-13 22:24:51 - Philosopher 1 is Thinking
+2024-11-13 22:24:51 - Philosopher 0 is Eating
+2024-11-13 22:24:51 - Philosopher 1 is Thinking
+2024-11-13 22:24:51 - Philosopher 1 is Hungry

@@ -11,5 +11,5 @@ The Dining Philosopher Problem involves philosophers sitting at a table with a f
 ## Usage
 Run the simulation script:
 ```sh
-python3 deadlock.py
+python3 main.py
 ```
